@@ -21,16 +21,4 @@
 			style="width:25rem"
 		/>
 	</a>
-</p> 
-	
-<h3 align="center">If you want to help me, consider buying me a coffee</h3>
-
-<p align="center">
-	<a href="https://ko-fi.com/lockblock" target="_blank">
-		<img
-			style="height:3rem"
-			src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
-			alt="Buy Me a Coffee at ko-fi.com"
-		/>
-	</a>
-</p> 
+</p>

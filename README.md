@@ -2,12 +2,12 @@
 
 <p align="center">
 	<img
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=LockBlock-dev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+		src="https://github-stats-extended.vercel.app/api/top-langs/?username=LockBlock-dev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
 		alt="Github top languages"
 		height="170rem"
 	/>
 	<img
-		src="https://github-readme-stats.vercel.app/api?username=LockBlock-dev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"
+		src="https://github-stats-extended.vercel.app/api?username=LockBlock-dev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"
 		alt="Github stats"
 		height="170rem"
 	/> 
